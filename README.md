@@ -1,2 +1,3 @@
 # project-1
-Its y first project with github
+Its my first project with github
+my 1st changegti
